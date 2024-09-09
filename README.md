@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project focuses on predicting potential customers for term deposits using a two-layer machine learning system. The primary goal is to maximize the identification of true positive customers and enhance precision in predicting both classes. Additionally, a SHAP (SHapley Additive exPlanations) analysis is conducted to identify key factors influencing subscription decisions, and a clustering approach is employed to segment customers who subscribed.
+This project focuses on predicting potential customers for term deposits using a two-layer machine learning system. The primary goal is to maximize the identification of true positive customers and enhance precision in predicting both classes. Additionally, a SHAP (SHapley Additive exPlanations) analysis is conducted to identify key factors influencing subscription decisions, and a clustering approach is employed to segment customers who subscribed. Additionally, a Tableau Dashboard is included, you can watch the walkthrought in the following link https://youtu.be/CzfJ8bHJGbQ .
 
 ## Key Highlights
 
