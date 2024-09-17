@@ -5,7 +5,17 @@
 
 ## Overview
 
-This project focuses on predicting potential customers for term deposits using a two-layer machine learning system. The primary goal is to maximize the identification of true positive customers and enhance precision in predicting both classes. Additionally, a SHAP (SHapley Additive exPlanations) analysis is conducted to identify key factors influencing subscription decisions, and a clustering approach is employed to segment customers who subscribed. Additionally, a Tableau Dashboard is included, you can watch the walkthrought in the following link https://youtu.be/CzfJ8bHJGbQ .
+This project focuses on predicting potential customers for term deposits using a two-layer machine learning system. The primary goal is to maximize the identification of true positive customers and enhance precision in predicting both classes. Additionally, a SHAP (SHapley Additive exPlanations) analysis is conducted to identify key factors influencing subscription decisions, and a clustering approach is employed to segment customers who subscribed. Additionally, a Tableau Dashboard is included, you can watch the walkthrought in the video below:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CzfJ8bHJGbQ">
+    <img src="https://img.youtube.com/vi/CzfJ8bHJGbQ/0.jpg" alt="IMAGE ALT TEXT HERE">
+  </a>
+</div>
+
+Also, two Power BI dashboards are shared in the following links:
+* [ML Layer 2](https://github.com/JaphetHerzVaq/knvmZU6edHGjaMY/edit/main/README.md#:~:text=Term_Deposit_Marketing_Dashboard_ML_Layer2)
+* [Customer Clustering](https://github.com/JaphetHerzVaq/knvmZU6edHGjaMY/edit/main/README.md#:~:text=Customer_clustering_dashboard)
 
 ## Key Highlights
 
