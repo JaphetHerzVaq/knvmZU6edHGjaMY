@@ -1,4 +1,4 @@
-# Term Deposit Marketing
+# Term Deposit Marketing.
 
 ### Prepared by: Japhet Hernández-Vaquero  
 ### Apziva 2024
